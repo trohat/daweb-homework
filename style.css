@@ -46,6 +46,9 @@
     float: left;
     width: 33.33%;
     padding: 15px;
+    box-sizing: border-box;
+    border: 15px solid white;
+    background-color: #74b9ff;
   }
   
   /* Clear floats after the columns */
